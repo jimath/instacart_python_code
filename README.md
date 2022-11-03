@@ -1,4 +1,4 @@
-Instacart - Python code
+Instacart - Python coding
 
 Data Analysis practice project conducted in Python.
 
