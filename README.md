@@ -35,5 +35,7 @@ The marketing and sales teams are particularly interested in the different types
 ## Data
 
 ●   customers - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
+
 ●   orders and products - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
+
 ●   departments - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip
