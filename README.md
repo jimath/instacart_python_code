@@ -37,21 +37,3 @@ The marketing and sales teams are particularly interested in the different types
 ●   customers - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
 ●   orders and products - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
 ●   departments - https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip
-
-  ● Is there a connection between age and family status in terms of ordering habits?
-  
-  ● What different classifications does the demographic information suggest? Age?
-  
-  Income? Certain types of goods? Family status?
-  
-  ● What differences can you find in ordering habits of different customer profiles?
-  
-  Consider the price of orders, the frequency of orders, the products customers are
-  ordering, and anything else you can think of.
-  
-
-Data
-
-● Open-source data sets from Instacart
-
-● Customer data set
